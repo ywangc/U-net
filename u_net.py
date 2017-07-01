@@ -7,7 +7,7 @@ Created on Fri Jun 23 12:38:14 2017
 import numpy as np
 import SimpleITK as sitk
 import tensorflow as tf
-
+## fully batch
 batch_size = 48
 img_rows = 240
 img_cols = 240
